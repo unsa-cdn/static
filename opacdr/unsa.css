@@ -69,6 +69,14 @@ a {
     font-size: 1.8em;
 }
 
+.anuncio {
+    text-decoration: none;
+    padding: 2%;
+}
 .anuncio.row {
-	padding: 5%;
+    width: 100%;
+}
+.anuncio-footer {
+    margin-left: 5%;
+    margin-top: -10%;
 }
