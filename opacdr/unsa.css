@@ -1,0 +1,70 @@
+body {
+    background-color: #dedbe0;
+}
+
+.vertical-center {
+    min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+    min-height: 70vh; /* These two lines are counted as one :-)       */
+
+    display: flex;
+    align-items: center;
+}
+
+.card-header {
+    background-color: #620019 !important;
+}
+
+.card button {
+    background: #620019;
+    border: #620019;
+}
+
+.card button:hover {
+    background: #620019;
+    border: #620019;
+}
+
+.card button:focus {
+    background: #620019;
+    border: #620019;
+}
+
+.main-footer {
+    background-color: #dedbe0;
+}
+
+a {
+    color : #455a64;
+}
+
+.btn.btn-primary {
+    background-color: #455a64;
+    border-color: #455a64;
+}
+
+.right-head {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.sesion-card{
+    border-style: double;
+    padding: 2%;
+    width: 70%;
+}
+
+.profile .user-name span {
+    font-size: 1em;
+}
+
+.profile .user-name a {
+    float: right;
+}
+
+.custom-control-label a {
+    color: #455a04;
+}
+
+.card-title {
+    font-size: 1.8em;
+}
