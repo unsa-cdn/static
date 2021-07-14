@@ -1,1 +1,3 @@
-https://cdn.jsdelivr.net/gh/unsa-cdn/static/sisgrad/nombre_archivo.png
+https://cdn.jsdelivr.net/gh/unsa-cdn/static/sisgrad/sisgrad_transparente_1.png
+https://cdn.jsdelivr.net/gh/unsa-cdn/static/sisgrad/32561614776889898.png
+https://cdn.jsdelivr.net/gh/unsa-cdn/static/sisgrad/96911614772427606.png
